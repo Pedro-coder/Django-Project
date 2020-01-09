@@ -7,4 +7,3 @@ venv/
 # SQLite databases files
 *.sqlite3
 
-requirements.txt
