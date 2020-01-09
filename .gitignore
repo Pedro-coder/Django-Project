@@ -1,0 +1,10 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+.env
+venv/
+
+# SQLite databases files
+*.sqlite3
+
+requirements.txt
